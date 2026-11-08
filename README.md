@@ -1,6 +1,6 @@
 # Gabriel León Cangalaya
 
-**Data Engineer Trainee en Interseguro · Estudiante de 8.º ciclo de Ingeniería de Computación y Sistemas (USMP)**
+**Practicante de Data Engineering en Interseguro · Estudiante de 8.º ciclo de Ingeniería de Computación y Sistemas (USMP)**
 
 Construyo cargas de datos en la nube y reglas de calidad para que los datos se puedan usar con confianza. Me interesan la ingeniería y el gobierno de datos, y la IA aplicada a datos.
 
